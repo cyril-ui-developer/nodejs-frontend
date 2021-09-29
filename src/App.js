@@ -14,6 +14,7 @@ function App() {
         </Container>
       </Row>
       <div className="separator"/>
+      <h1> List Post </h1>
       <Row>
         <PostList/>
       </Row>
